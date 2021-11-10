@@ -3,6 +3,11 @@
     color: #c85308;
 }
 
+.main-nav__list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 @media (min-width:992px) {
     .hero__title {
         font-size: 3.3rem;
