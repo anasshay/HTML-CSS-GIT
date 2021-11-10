@@ -12,6 +12,18 @@
     margin-bottom: 15px;
 }
 
+article {
+    max-width: 50em;
+}
+article p {
+    line-height: 150%;
+}
+
+main.site-content {
+    display: flex;
+    justify-content: center;
+}
+
 @media (min-width:767px) {
     .site-header {
         display: flex;
