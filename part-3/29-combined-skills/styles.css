@@ -2,3 +2,10 @@
 .heart-span {
     color: #c85308;
 }
+
+@media (min-width:992px) {
+    .hero__title {
+        font-size: 3.3rem;
+        width: 70%;
+    }
+}
